@@ -26,5 +26,5 @@ Spectrometry
 ## Device assembled
 ![Device](doc/pictures/device.jpg)
 
-## Output waveform example
+## Output waveform example from Radium-226
 ![Signal](doc/pictures/signal1.jpg)
